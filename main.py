@@ -8,6 +8,7 @@ import os
 from email.message import EmailMessage # to set the email with all fields required
 import smtplib # allows to send the email finding the 'client'
 import imghdr # this help you find the type of the file, like jpg, txt, etc...
+import pandas as pd
 
 # MAIN WINDOW ----------------------------------------------------------------------------------
 
