@@ -1,5 +1,5 @@
 # Email-Encoded-App
-Send unlimited email for free. Chose to encrypt your message before sending it. On the other hand decrypt the message received. Vey high secure mode.
+Send unlimited email for free. Chose to encrypt your message before sending it.
 
 !IMPORTANT
 This app allow you to send email thanks to Gmail. To use this app with your own gmail address you need first to do this:
